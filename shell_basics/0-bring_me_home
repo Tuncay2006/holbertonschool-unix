@@ -1,5 +1,7 @@
 #!/bin/bash
 cd ~
+pwd
+echo "ana directori $(pwd)"
 echo " ~\n\n\n"
 
 
