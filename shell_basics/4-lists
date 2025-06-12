@@ -1,4 +1,3 @@
 #!/bin/bash
-ls -la
-cd ..
-ls -la
+ls -la /holbertonschool-unix/shell_basics  /holbertonschool-unix
+
